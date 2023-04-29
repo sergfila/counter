@@ -1,0 +1,14 @@
+span {
+    font-size: 25px;
+}
+
+input {
+    margin-left: 20px;
+    height: 40px;
+    padding: 4px 16px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    font-size: 22px;
+    text-align: center;
+}
