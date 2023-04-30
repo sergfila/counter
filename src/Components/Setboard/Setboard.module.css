@@ -12,3 +12,7 @@ input {
     font-size: 22px;
     text-align: center;
 }
+
+.error {
+    background-color: #FF652F;
+}
